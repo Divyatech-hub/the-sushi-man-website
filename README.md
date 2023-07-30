@@ -1,5 +1,5 @@
 # The Sushi Man Website
-I created a solely HTML and CSS-based website for a sushi restaurant with modern design, incredible color scheme, and well-styled components.
+I created a HTML, CSS, and JavaScript-based website for a sushi restaurant with modern design, incredible color scheme, and well-styled components.
 
 The Sushiman Website: https://www.the-sushiman.com/
 
